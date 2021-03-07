@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Films</string>
+    <string name="popularity_films">Популярные</string>
+    <string name="rated_films">Рейтинговые</string>
+    <string name="small_poster">Постер</string>
+    <string name="poster_film">Постер фильма</string>
+    <string name="overview_film">Описание:</string>
+</resources>

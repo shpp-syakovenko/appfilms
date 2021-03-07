@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="popularity_films">Popularity</string>
+    <string name="rated_films">Rated</string>
+    <string name="small_poster">Poster</string>
+    <string name="poster_film">Poster film</string>
+    <string name="overview_film">Overview:</string>
+</resources>
